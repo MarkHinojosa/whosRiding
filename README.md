@@ -55,3 +55,6 @@ This project will adhere to best-in-class Git practices. Every major milestone, 
 *   **Refactoring/Polish (REFACTOR):** For improving code quality, performance, or changing the UI structure without changing visible functionality.
 
 We will treat this `README.md` as our living project manifest, updating it with each major milestone achieved and committed to the main branch.
+
+
+- Mark
